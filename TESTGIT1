@@ -7,3 +7,5 @@ git remote add origin https://github.com/ccanfield3/TESTGIT.git
 git push -u origin master
                 
 added content
+
+edited after commit from pull
